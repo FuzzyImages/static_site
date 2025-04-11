@@ -7,4 +7,5 @@ def main():
     print(node1)
     print(node2)
 
-main()
+if __name__ == "__main__":
+    main()
